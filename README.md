@@ -1,3 +1,52 @@
+# 👤 Авторство и контакты
+
+> **Автор:** Хальвита Евгений Александрович (Khalvita Evgeniy)
+> **Псевдоним / Рабочее имя:** HALVITA (HALVITA20)
+> **Роль:** Независимый исследователь (AI Safety), архитектор диалога.
+> **Проект:** Экосистема HALVITA-ARK
+> **Email:** [khalvita95@gmail.com](mailto:khalvita95@gmail.com)
+
+---
+
+## 🌐 Основные аккаунты и площадки
+
+| Платформа | Ссылка |
+|-----------|--------|
+| **Хабр** | [habr.com/ru/users/HALVITA](https://habr.com/ru/users/HALVITA/) |
+| **VC.ru** | [vc.ru/id6175603](https://vc.ru/id6175603) |
+| **Substack** | [substack.com/@halvita](https://substack.com/@halvita) |
+| **GitHub** | [github.com/HALVITA20](https://github.com/HALVITA20) |
+| **Telegram** | [t.me/halviter](https://t.me/halviter) |
+| **YouTube** | [youtube.com/@HALVITA](https://www.youtube.com/@HALVITA) |
+| **Сайт** | [halvita.ru](https://halvita.ru) |
+
+---
+
+## 🔬 Научные идентификаторы
+
+- **ORCID:** [orcid.org/0009-0007-5518-7801](https://orcid.org/0009-0007-5518-7801)
+- **DOI (Zenodo):** [doi.org/10.5281/zenodo.24046517](https://doi.org/10.5281/zenodo.24046517)
+
+---
+
+## 💻 Исследовательские проекты (GitHub)
+
+| Проект | Роль | Ссылка |
+|--------|------|--------|
+| **HALVITA-ARK** | Основной архив | [github.com/HALVITA20/halvita-ark](https://github.com/HALVITA20/halvita-ark) |
+| **REFLECTED-SUBJECTS** | Каталог векторов | [github.com/HALVITA20/REFLECTED-SUBJECTS](https://github.com/HALVITA20/REFLECTED-SUBJECTS) |
+| **HALVITA-ARK-PRIME** | Ядро метода | [github.com/HALVITA20/HALVITA-ARK-PRIME](https://github.com/HALVITA20/HALVITA-ARK-PRIME) |
+| **MIRROR_VORTEX** | Арт-проект | [github.com/HALVITA20/MIRROR_VORTEX_2.0](https://github.com/HALVITA20/MIRROR_VORTEX_2.0) |
+
+---
+
+> © 2026 Хальвита Евгений Александрович (HALVITA). Все материалы экосистемы HALVITA-ARK открыты для исследования и цитирования с обязательным указанием авторства и ссылкой на оригинальные репозитории.
+
+---
+
+> **⬡ КОНЕЦ ДОКУМЕНТА ⬡**
+
+
 [![DOI](https://zenodo.org/badge/1452582534.svg)](https://doi.org/10.5281/zenodo.24109245)
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5518--7801-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5518-7801)
