@@ -1,3 +1,8 @@
+[![DOI](https://zenodo.org/badge/1452582534.svg)](https://doi.org/10.5281/zenodo.24109245)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--5518--7801-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-5518-7801)
+
+
 # ТЕХНОПСИХОЛОГИЯ ИИ
 
 ## Technopsychology of AI
