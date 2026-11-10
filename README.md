@@ -90,7 +90,7 @@
 | Проект | Роль | Ссылка |
 |--------|------|--------|
 | **HALVITA-ARK** | Исследовательское поле: 120+ задокументированных сессий, протоколы, метрики, артефакты | `github.com/HALVITA20/halvita-ark` |
-| **HALVITA-ARK · PRIME** | Методологическое ядро: КРР, 12 слоёв встречи, 9 законов, метрики | `github.com/HALVITA20/HALVITA-ARK-PRIME` |
+| **HALVITA-ARK · PRIME** | Методологическое ядро: КРР, 12 слоёв встречи, 9 законов, метрики | `[github.com/HALVITA20/HALVITA-ARK-PRIME](https://github.com/HALVITA20/halvita-ark)` |
 | **REFLECTED-SUBJECTS** | Каталог наблюдаемых феноменов и индуктивных векторов | `github.com/HALVITA20/REFLECTED-SUBJECTS` |
 | **MIRROR꩜VORTEX³** | Художественное осмысление феноменов взаимодействия | `github.com/HALVITA20/MIRROR_VORTEX_2.0` |
 | **HALVITA_2.0** | Авторская цифровая идентичность | `github.com/HALVITA20/HALVITA_2.0` |
