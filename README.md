@@ -31,12 +31,6 @@
 | **YouTube** | [youtube.com/@HALVITA](https://www.youtube.com/@HALVITA) |
 | **Сайт** | [halvita.ru](https://halvita.ru) |
 
----
-
-## 🔬 Научные идентификаторы
-
-- **ORCID:** [orcid.org/0009-0007-5518-7801](https://orcid.org/0009-0007-5518-7801)
-- **DOI (Zenodo):** [doi.org/10.5281/zenodo.24046517](https://doi.org/10.5281/zenodo.24046517)
 
 ---
 
